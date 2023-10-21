@@ -22,6 +22,10 @@ Highlight Georgia Tech's dedication to sustainability and equity.
 Approach:
 Collaboration with GT staff and students to enrich tour experiences.
 Integration of cutting-edge technology for interactive and inclusive exploration.
+## Research
+- [Fall 2022 Final Deliverable](https://docs.google.com/document/d/1JHWTZzUxcV_OfkYUSawsqg2CLbdSG01_YrJfaZSI868/edit?usp=sharing)
+- [Spring 2023 Midterm Deliverable](https://docs.google.com/document/d/1DxD9AbiE3EUeRTAvtebZ0rpCiITXtD6d6x9-dI5smhg/edit?usp=share_link)
+- [Spring 2023 Final Deliverable](https://docs.google.com/document/d/1JK7no5oI_tI0m0HCePIygifH-qEtB0P6PnjjpVVDSjg/edit?usp=share_link)
 ## Credits
 - Shasha Liu
 - Weiting Huang
