@@ -27,6 +27,7 @@ Integration of cutting-edge technology for interactive and inclusive exploration
 - [Fall 2022 Final Deliverable](https://docs.google.com/document/d/1JHWTZzUxcV_OfkYUSawsqg2CLbdSG01_YrJfaZSI868/edit?usp=sharing)
 - [Spring 2023 Midterm Deliverable](https://docs.google.com/document/d/1DxD9AbiE3EUeRTAvtebZ0rpCiITXtD6d6x9-dI5smhg/edit?usp=share_link)
 - [Spring 2023 Final Deliverable](https://docs.google.com/document/d/1JK7no5oI_tI0m0HCePIygifH-qEtB0P6PnjjpVVDSjg/edit?usp=share_link)
+- [Fall 2023 Final Deliverable](https://docs.google.com/document/d/1g7nTAz-t78CT6-Q4lf1O0Hgo_WUceg4MWTjXFIZOswM/edit?usp=sharing) 
 ## Credits
 - Shasha Liu
 - Weiting Huang
